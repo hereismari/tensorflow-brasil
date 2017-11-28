@@ -44,7 +44,7 @@ Contribuições são muito bem vindas!
 
 ### Erros ou melhorias em materiais já existentes
 
-Criar uma issue é suficiente, fique a vontade para resolver o problema você mesmo(a) através de um Pull Request após a criação da issue.
+Criar uma issue é suficiente, fique a vontade para resolver o problema através de um Pull Request após a criação da issue.
 
 ### Novos Materiais
 
