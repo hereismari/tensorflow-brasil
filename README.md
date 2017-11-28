@@ -4,6 +4,8 @@ Esse repositório contém códigos e materiais sobre TensorFlow em português a 
 
 Todos os códigos estão em Python, no formato de [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) para fins didáticos.
 
+Você pode acessar uma lista de materiais recomendados em inglês [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
+
 ## O que preciso para executar o código?
 
 Considerando que você já tenha Python 2 ou 3 instalado na sua máquina...
