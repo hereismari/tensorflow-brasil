@@ -1,0 +1,6 @@
+classificador-cachorros-gatos-estimator/cifar-10-*
+classificador-cachorros-gatos-estimator/models/
+classificador-cachorros-gatos-estimator/treino.npy
+classificador-cachorros-gatos-estimator/teste.npy
+.ipynb_checkpoints/
+
