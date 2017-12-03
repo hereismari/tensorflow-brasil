@@ -53,7 +53,8 @@ Criar uma issue é suficiente, fique a vontade para resolver o problema através
 Caso queira contribuir com um novo material siga o padrão/formato dos materiais já existentes e coloque todos os links de referência no início dos notebooks.
 
 Todo material:
-  * Deve conter qual versão do TensorFlow deve ser usada para rodar o notebook no topo do notebook.
-  * Contém todas as dependências importadas juntas no início do notebook para facilitar a execução.
+
+* Deve conter qual versão do TensorFlow deve ser usada para rodar o notebook no topo do notebook.
+* Contém todas as dependências importadas juntas no início do notebook para facilitar a execução.
 
 > The code and resources available in this repository are in Brazilian Portuguese.
