@@ -36,7 +36,7 @@ python3 -m pip install jupyter numpy pandas matplotlib
 
 ### Jupyter notebooks
 
-Se você não tiver familiariade com Jupyter notebooks visite o link da sessão anterior e tente se familiarizar com os conceitos, nada muito complicado, é suficiente instalar e rodar :smile:.
+Se você não tiver familiariade com Jupyter notebooks visite o link da [sessão anterior](https://github.com/mari-linhares/tensorflow-brasil#tensorflow-brasil-brazil) e tente se familiarizar com os conceitos, nada muito complicado, é suficiente instalar e rodar :smile:.
 
 Outa dica é utilizar [**Colaboratory (Colab)**](colaboratory.jupyter.org) que é uma ferramenta desenvolvida pela Google para ajudar a compartilhar o ensino e pesquisa de Machine Learning. O colab é um jupyter notebook que roda na nuvem e portanto não requer nenhum tipo de configuração local, os notebooks são salvos no Google Drive e podem ser importardos/exportados facilmente. Uma ótima solução e gratuita! Consulte o [FAQ](https://research.google.com/colaboratory/faq.html) para mais informações.
 
