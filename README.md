@@ -18,7 +18,7 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
 [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
 
-[TensorBoard - exemplo rodando no browser](projector.tensorflow.org)
+[TensorBoard - exemplo rodando via web](projector.tensorflow.org)
 
 [Estimators API](https://www.tensorflow.org/extend/estimators)
 
