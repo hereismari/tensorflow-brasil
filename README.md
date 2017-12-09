@@ -15,11 +15,17 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 [Tutoriais e samples de código](tensorflow.org)
 
 [TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
+
 [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+
 [TensorBoard - exemplo rodando no browser](projector.tensorflow.org)
+
 [Estimators API](https://www.tensorflow.org/extend/estimators)
+
 [Datasets API](https://www.tensorflow.org/programmers_guide/datasets)
+
 [TensorFlow Eager](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/README.md)
+
 [TensorFlow Serving](https://www.tensorflow.org/serving/)
 
 ### Deep Learning
