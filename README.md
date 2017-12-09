@@ -4,7 +4,34 @@ Esse repositório contém códigos e materiais sobre TensorFlow em português a 
 
 Todos os códigos estão em Python, no formato de [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) para fins didáticos.
 
-Você pode acessar uma lista de materiais recomendados em inglês [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
+## Outros materiais recomendados
+
+Aqui você encontra materiais e recursos, em sua grande maioria em inglês, sobre TensorFlow e Deep Learning. Os materiais em português são apresentados em negrito.
+
+Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser acessados neste [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
+
+### TensorFlow
+
+[Tutoriais e samples de código](tensorflow.org)
+
+[TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
+[TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+[TensorBoard - exemplo rodando no browser](projector.tensorflow.org)
+[Estimators API](https://www.tensorflow.org/extend/estimators)
+[Datasets API](https://www.tensorflow.org/programmers_guide/datasets)
+[TensorFlow Eager](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/README.md)
+[TensorFlow Serving](https://www.tensorflow.org/serving/)
+
+### Deep Learning
+
+[Curso de Stanford CS231n](cs231n.github.io)
+
+[Machine Learning Nanodegree do Udacity](goo.gl/ODpXj4)
+
+[Intro. a Deep Learning com TensorFlow Udacity](goo.gl/iHssII)
+
+[Google Recipes - Começando com ML e DL](goo.gl/KewA03)
+
 
 ## O que preciso para executar o código?
 
