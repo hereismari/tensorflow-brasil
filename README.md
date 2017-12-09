@@ -4,7 +4,40 @@ Esse repositório contém códigos e materiais sobre TensorFlow em português a 
 
 Todos os códigos estão em Python, no formato de [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) para fins didáticos.
 
-Você pode acessar uma lista de materiais recomendados em inglês [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
+## Outros materiais recomendados
+
+Aqui você encontra materiais e recursos, em sua grande maioria em inglês, sobre TensorFlow e Deep Learning. Os materiais em português são apresentados em negrito.
+
+Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser acessados neste [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
+
+### TensorFlow
+
+[Tutoriais e samples de código](tensorflow.org)
+
+[TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
+
+[TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+
+[TensorBoard - exemplo rodando via web](projector.tensorflow.org)
+
+[Estimators API](https://www.tensorflow.org/extend/estimators)
+
+[Datasets API](https://www.tensorflow.org/programmers_guide/datasets)
+
+[TensorFlow Eager](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/README.md)
+
+[TensorFlow Serving](https://www.tensorflow.org/serving/)
+
+### Deep Learning
+
+[Curso de Stanford CS231n](cs231n.github.io)
+
+[Machine Learning Nanodegree do Udacity](goo.gl/ODpXj4)
+
+[Intro. a Deep Learning com TensorFlow Udacity](goo.gl/iHssII)
+
+[Google Recipes - Começando com ML e DL](goo.gl/KewA03)
+
 
 ## O que preciso para executar o código?
 
@@ -36,7 +69,7 @@ python3 -m pip install jupyter numpy pandas matplotlib
 
 ### Jupyter notebooks
 
-Se você não tiver familiariade com Jupyter notebooks visite o link da sessão anterior e tente se familiarizar com os conceitos, nada muito complicado, é suficiente instalar e rodar :smile:.
+Se você não tiver familiariade com Jupyter notebooks visite o link da [sessão anterior](https://github.com/mari-linhares/tensorflow-brasil#tensorflow-brasil-brazil) e tente se familiarizar com os conceitos, nada muito complicado, é suficiente instalar e rodar :smile:.
 
 Outa dica é utilizar [**Colaboratory (Colab)**](colaboratory.jupyter.org) que é uma ferramenta desenvolvida pela Google para ajudar a compartilhar o ensino e pesquisa de Machine Learning. O colab é um jupyter notebook que roda na nuvem e portanto não requer nenhum tipo de configuração local, os notebooks são salvos no Google Drive e podem ser importardos/exportados facilmente. Uma ótima solução e gratuita! Consulte o [FAQ](https://research.google.com/colaboratory/faq.html) para mais informações.
 
@@ -53,7 +86,8 @@ Criar uma issue é suficiente, fique a vontade para resolver o problema através
 Caso queira contribuir com um novo material siga o padrão/formato dos materiais já existentes e coloque todos os links de referência no início dos notebooks.
 
 Todo material:
-  * Deve conter qual versão do TensorFlow deve ser usada para rodar o notebook no topo do notebook.
-  * Contém todas as dependências importadas juntas no início do notebook para facilitar a execução.
+
+* Deve conter qual versão do TensorFlow deve ser usada para rodar o notebook no topo do notebook.
+* Contém todas as dependências importadas juntas no início do notebook para facilitar a execução.
 
 > The code and resources available in this repository are in Brazilian Portuguese.
