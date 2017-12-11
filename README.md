@@ -12,7 +12,7 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
 ### TensorFlow
 
-[Tutoriais e samples de código](tensorflow.org)
+[Tutoriais e samples de código](https://www.tensorflow.org)
 
 [TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
 
@@ -30,13 +30,13 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
 ### Deep Learning
 
-[Curso de Stanford CS231n](cs231n.github.io)
+[Curso de Stanford CS231n](https://cs231n.github.io)
 
-[Machine Learning Nanodegree do Udacity](goo.gl/ODpXj4)
+[Machine Learning Nanodegree do Udacity](https://goo.gl/ODpXj4)
 
-[Intro. a Deep Learning com TensorFlow Udacity](goo.gl/iHssII)
+[Intro. a Deep Learning com TensorFlow Udacity](https://goo.gl/iHssII)
 
-[Google Recipes - Começando com ML e DL](goo.gl/KewA03)
+[Google Recipes - Começando com ML e DL](https://goo.gl/KewA03)
 
 
 ## O que preciso para executar o código?
@@ -71,7 +71,7 @@ python3 -m pip install jupyter numpy pandas matplotlib
 
 Se você não tiver familiariade com Jupyter notebooks visite o link da [sessão anterior](https://github.com/mari-linhares/tensorflow-brasil#tensorflow-brasil-brazil) e tente se familiarizar com os conceitos, nada muito complicado, é suficiente instalar e rodar :smile:.
 
-Outa dica é utilizar [**Colaboratory (Colab)**](colaboratory.jupyter.org) que é uma ferramenta desenvolvida pela Google para ajudar a compartilhar o ensino e pesquisa de Machine Learning. O colab é um jupyter notebook que roda na nuvem e portanto não requer nenhum tipo de configuração local, os notebooks são salvos no Google Drive e podem ser importardos/exportados facilmente. Uma ótima solução e gratuita! Consulte o [FAQ](https://research.google.com/colaboratory/faq.html) para mais informações.
+Outa dica é utilizar [**Colaboratory (Colab)**](https://colaboratory.jupyter.org) que é uma ferramenta desenvolvida pela Google para ajudar a compartilhar o ensino e pesquisa de Machine Learning. O colab é um jupyter notebook que roda na nuvem e portanto não requer nenhum tipo de configuração local, os notebooks são salvos no Google Drive e podem ser importardos/exportados facilmente. Uma ótima solução e gratuita! Consulte o [FAQ](https://research.google.com/colaboratory/faq.html) para mais informações.
 
 ## Como contribuir?
 
