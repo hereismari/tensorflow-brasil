@@ -1,6 +1,6 @@
 # TensorFlow Brasil :brazil:
 
-Esse repositório contém códigos e materiais sobre TensorFlow em português a fim de ajudar pessoas interessadas a aprender mais sobre Machine Learning, Deep Learning e TensorFlow.
+Esse repositório contém códigos e materiais sobre TensorFlow em português a fim de ajudar pessoas interessadas a aprender (e se manterem atualizadas) sobre Machine Learning, Deep Learning e TensorFlow.
 
 Todos os códigos estão em Python, no formato de [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) para fins didáticos.
 
