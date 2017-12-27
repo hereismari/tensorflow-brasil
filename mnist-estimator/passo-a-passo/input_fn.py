@@ -5,16 +5,22 @@ from __future__ import division
 from __future__ import print_function
 
 import tensorflow as tf
+# MNIST
+from tensorflow.examples.tutorials.mnist import input_data
+
 import numpy as np
  
 print ('Versão do TensorFlow:', tf.__version__)
 
 # Buscando dados de treino e teste
-treino, teste = tf.contrib.keras.datasets.mnist.load_data()
+mnist = input_data.read_data_sets('/tmp/MNIST/', one_hot=True)
 
 # x_treino: imagens, y_treino: labels
-x_treino, y_treino = treino 
-x_teste, y_teste = teste
+x_treino = mnist.train.images
+y_treino = mnist.train.labels
+x_teste = mnist.test.images
+y_teste = mnist.test.labels
+
 
 # Input function de treino
 mnist_treino_input = tf.estimator.inputs.numpy_input_fn(
@@ -35,7 +41,7 @@ mnist_teste_input = tf.estimator.inputs.numpy_input_fn(
   # da mesma forma os dados devem ser passados como um dicionário
   {'x':np.array(x_teste, dtype=np.float32)},
   # labels
-  np.array(y_teste,dtype=np.int32),
+  np.array(y_teste, dtype=np.int32),
   # misturando os dados
   shuffle=True,
   # sem repetir os dados
