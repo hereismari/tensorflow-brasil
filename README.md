@@ -77,7 +77,7 @@ Outa dica é utilizar [**Colaboratory (Colab)**](https://colaboratory.jupyter.or
 
 Contribuições são muito bem vindas!
 
-### Erros ou melhorias em materiais já existentes
+### Melhorar ou consertar materiais já existentes
 
 Criar uma issue é suficiente, fique a vontade para resolver o problema através de um Pull Request após a criação da issue.
 
