@@ -10,33 +10,37 @@ Aqui você encontra materiais e recursos, em sua grande maioria em inglês, sobr
 
 Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser acessados neste [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
 
+## Blogposts
+
+ * [Implementando Estimators](https://medium.com/@mariannelinharesm/tensorflow-v1-4-0-estimators-parte-1-1a58bbfc13ae)
+
 ### TensorFlow
 
-[Tutoriais e samples de código](https://www.tensorflow.org)
+ * [Tutoriais e samples de código](https://www.tensorflow.org)
 
-[TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
+ * [TensorFlow lite](https://www.tensorflow.org/mobile/tflite/)
 
-[TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
+ * [TensorBoard](https://www.tensorflow.org/get_started/summaries_and_tensorboard)
 
-[TensorBoard - exemplo rodando via web](projector.tensorflow.org)
+ * [TensorBoard - exemplo rodando via web](projector.tensorflow.org)
 
-[Estimators API](https://www.tensorflow.org/extend/estimators)
+ * [Estimators API](https://www.tensorflow.org/extend/estimators)
 
-[Datasets API](https://www.tensorflow.org/programmers_guide/datasets)
+ * [Datasets API](https://www.tensorflow.org/programmers_guide/datasets)
 
-[TensorFlow Eager](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/README.md)
+ * [TensorFlow Eager](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/README.md)
 
-[TensorFlow Serving](https://www.tensorflow.org/serving/)
+ * [TensorFlow Serving](https://www.tensorflow.org/serving/)
 
 ### Deep Learning
 
-[Curso de Stanford CS231n](https://cs231n.github.io)
+ * [Curso de Stanford CS231n](https://cs231n.github.io)
 
-[Machine Learning Nanodegree do Udacity](https://goo.gl/ODpXj4)
+ * [Machine Learning Nanodegree do Udacity](https://goo.gl/ODpXj4)
 
-[Intro. a Deep Learning com TensorFlow Udacity](https://goo.gl/iHssII)
+ * [Intro. a Deep Learning com TensorFlow Udacity](https://goo.gl/iHssII)
 
-[Google Recipes - Começando com ML e DL](https://goo.gl/KewA03)
+ * [Google Recipes - Começando com ML e DL](https://goo.gl/KewA03)
 
 
 ## O que preciso para executar o código?
