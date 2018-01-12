@@ -12,7 +12,7 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
 ## Blogposts
 
- * [Implementando Estimators](https://medium.com/@mariannelinharesm/tensorflow-v1-4-0-estimators-parte-1-1a58bbfc13ae)
+ * [27/12/2017 - Implementando Estimators](https://medium.com/@mariannelinharesm/tensorflow-v1-4-0-estimators-parte-1-1a58bbfc13ae)
 
 ### TensorFlow
 
