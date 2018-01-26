@@ -94,4 +94,4 @@ Todo material:
 * Deve conter qual versão do TensorFlow deve ser usada para rodar o notebook no topo do notebook.
 * Contém todas as dependências importadas juntas no início do notebook para facilitar a execução.
 
-> The code and resources available in this repository are in Brazilian Portuguese.
+> The code and resources available in this repository are not related to TensorFlow or Google in anyway.
