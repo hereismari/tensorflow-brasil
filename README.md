@@ -1,6 +1,6 @@
 # TensorFlow Brasil :brazil:
 
-Esse repositório contém códigos e materiais sobre TensorFlow em português e escrito por brasileiros a fim de ajudar pessoas interessadas a aprender (e se manterem atualizadas) sobre Machine Learning, Deep Learning e TensorFlow.
+Esse repositório contém códigos e materiais sobre TensorFlow em português escritos por brasileiros a fim de ajudar pessoas interessadas a aprender sobre Machine Learning, Deep Learning e TensorFlow.
 
 Todos os exemplos são implementados em Python (compatíveis com Python2 e Python3), no formato de [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) para fins didáticos.
 
@@ -13,6 +13,7 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 ## Blogposts
 
  * [27/12/2017 - Implementando Estimators](https://medium.com/@mariannelinharesm/tensorflow-v1-4-0-estimators-parte-1-1a58bbfc13ae)
+ * [29/04/2018 - TensorFlow Summit 2018 - Resumo de novidades](https://medium.com/@mariannelinharesm/tensorflow-summit-2018-resumo-de-novidades-73c77cd93529)
 
 ### TensorFlow
 
