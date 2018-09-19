@@ -33,13 +33,21 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
  * [TensorFlow Serving](https://www.tensorflow.org/serving/)
 
+ * [TensorFlow For Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0)
+
 ### Deep Learning
 
  * [Curso de Stanford CS231n](https://cs231n.github.io)
+ 
+ * [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)
 
  * [Machine Learning Nanodegree do Udacity](https://goo.gl/ODpXj4)
+ 
+ * [Deep Learning Nanodegree do Udacity](https://br.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
  * [Intro. a Deep Learning com TensorFlow Udacity](https://goo.gl/iHssII)
+ 
+ * [Deep Learning Explained (Microsoft)](https://www.edx.org/course/deep-learning-explained)
 
  * [Google Recipes - Começando com ML e DL](https://goo.gl/KewA03)
 
