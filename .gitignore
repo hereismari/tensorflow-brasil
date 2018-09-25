@@ -3,9 +3,12 @@ classificador-cachorros-gatos-estimator/models/
 classificador-cachorros-gatos-estimator/treino.npy
 classificador-cachorros-gatos-estimator/teste.npy
 classificador-carros/models/
+regressor-face-pose/models/
 *.png
 *.DS_Store
 *.zip
+*.rar
+*.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -118,4 +121,3 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
