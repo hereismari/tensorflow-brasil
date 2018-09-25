@@ -12,7 +12,7 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
 
 ## Blogposts
 
- * [24/09/2018 - Introduction to Real-Time Face Pose Estimation with Deep Learning](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf)
+ * [24/09/2018 - Introduction to Real-Time Face Pose Estimation with Deep Learning (Inglês apenas)](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf)
 * [29/04/2018 - TensorFlow Summit 2018 - Resumo de novidades](https://medium.com/@mariannelinharesm/tensorflow-summit-2018-resumo-de-novidades-73c77cd93529)
  * [27/12/2017 - Implementando Estimators](https://medium.com/@mariannelinharesm/tensorflow-v1-4-0-estimators-parte-1-1a58bbfc13ae)
 
