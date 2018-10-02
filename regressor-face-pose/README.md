@@ -5,9 +5,11 @@ Nesse tutorial, nós vamos treinar um modelo para prever o roll, pitch e yaw de 
 O conteúdo dessa pasta foi inspirado [nesse artigo](https://medium.com/@arnaldog12/face-pose-estimation-with-deep-learning-eebd0e62dbaf).
 
 # Dados
+
 Você pode baixar os dados utilizados nesse problema [aqui](https://drive.google.com/file/d/1e4GHFBYgx4wfcrdUjf7O4anhhVgu9Iz6/view?usp=sharing). Extraia esse arquivo na pasta "data".
 
 # Estrutura de Pastas
+
 Use a seguinte estrutura de pastas para rodar o arquivo estimators.ipynb:
 
 ```
@@ -18,6 +20,7 @@ Use a seguinte estrutura de pastas para rodar o arquivo estimators.ipynb:
 ```
 
 # Depedências
+
 Além das dependências descritas no README.md da raiz desse repositório, você também irá precisar instalar os seguintes pacotes:
 
 - opencv
