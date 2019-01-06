@@ -30,5 +30,5 @@ Além das dependências descritas no README.md da raiz desse repositório, você
 Para instalar esses pacotes, basta rodar o código abaixo no terminal:
 
 ```
-pip install opencv scikit-learn dlib
+pip install opencv-python scikit-learn dlib
 ```
