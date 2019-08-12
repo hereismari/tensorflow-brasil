@@ -10,7 +10,13 @@ Aqui você encontra materiais e recursos, em sua grande maioria em inglês, sobr
 
 Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser acessados neste [nesse link](https://github.com/mari-linhares/DeepLearning). Bom aprendizado!
 
-## Blogposts
+## Materiais
+
+### Vídeos
+
+* [19/04/2019 - Começando com TensorFlow 2.0](https://www.youtube.com/watch?time_continue=3&v=sQjOMOtQc6I), [código](https://github.com/smoreira/TensorFlow2/blob/master/nnTF2.ipynb)
+
+### Blogs
 
  * [24/09/2018 - Introduction to Real-Time Face Pose Estimation with Deep Learning (Inglês apenas)](https://medium.com/analytics-vidhya/face-pose-estimation-with-deep-learning-eebd0e62dbaf)
 * [29/04/2018 - TensorFlow Summit 2018 - Resumo de novidades](https://medium.com/@mariannelinharesm/tensorflow-summit-2018-resumo-de-novidades-73c77cd93529)
