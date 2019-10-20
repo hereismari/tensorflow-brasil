@@ -57,7 +57,8 @@ Materiais mais específicos (ex: GANs, Reinforcement Learning, ...) podem ser ac
  * [Deep Learning Explained (Microsoft)](https://www.edx.org/course/deep-learning-explained)
 
  * [Google Recipes - Começando com ML e DL](https://goo.gl/KewA03)
-
+ 
+ * [Sentdex Deep Learning Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN)
 
 ## O que preciso para executar o código?
 
